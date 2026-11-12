@@ -48,6 +48,4 @@ The main goal is to explore data analysis techniques, understand patterns in dat
 3. Open the project in Jupyter Notebook.
 4. Run the notebooks to explore the assignments.
 
-## Author
 
-Information Systems student at KBTU, interested in Data Analytics and Data Science.
